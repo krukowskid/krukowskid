@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me at 16th birthday of WGUiSW community group meetup](https://github.com/krukowskid/krukowskid/blob/master/images/about-me.webp)
+![me at 16th birthday of WGUiSW community group meetup](https://github.com/krukowskid/krukowskid/blob/master/images/about-me.jpg)
 ---
 ### 📖 Latest Blog posts
 <!-- CLOUDCHRONICLES:START -->
