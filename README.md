@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![me at 16th birthday of WGUiSW community group meetup](https://github.com/krukowskid/krukowskid/blob/master/images/about-me.webp)
+---
 ### 📖 Latest Blog posts
 <!-- CLOUDCHRONICLES:START -->
 - [Lessons Learned: Infrastructure Wins &amp;amp; Regrets at a Startup on Azure](https://cloudchronicles.blog/blog/Lessons-Learned-Infrastructure-Wins-Regrets-at-a-Startup-on-Azure/)
