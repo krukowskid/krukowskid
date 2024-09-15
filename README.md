@@ -4,9 +4,9 @@
 ---
 ### 📖 Latest Blog posts
 <!-- CLOUDCHRONICLES:START -->
+- [Managed Identities Quick Wins](https://github.com/blog/Managed-Identities-Quick-Wins/)
 - [New blog layout](https://github.com/blog/New-blog-layout/)
 - [I am now a Microsoft Azure MVP!](https://github.com/blog/I-am-now-a-Microsoft-Azure-MVP/)
 - [Lessons Learned: Infrastructure Wins &amp;amp; Regrets at a Startup on Azure](https://github.com/blog/Lessons-Learned-Infrastructure-Wins-Regrets-at-a-Startup-on-Azure/)
 - [Getting Cloud Infrastructure the DevOps Way](https://github.com/blog/Getting-Cloud-Infrastructure-the-DevOps-Way/)
-- [Centralized Configuration with Azure App Configuration](https://github.com/blog/Centralized-Configuration-with-Azure-App-Configuration/)
 <!-- CLOUDCHRONICLES:END -->
